@@ -1,7 +1,7 @@
 Descriere
 =========
 
-FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2009 dorim să scoatem din casă toate persoanele dornice să discute sau să schimbe idei și opinii despre software-ul liber.
+FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2009 dorim să scoatem din casă toate persoanele dornice să discute sau să schimbe idei și opinii despre software liber.
 
 Anul acesta FLOSSCamp își dorește nu doar să repete, ci și să mărească [succesul de anul trecut (vezi FLOSSCamp 2008)](/2008). De aceea te așteptăm!
 
