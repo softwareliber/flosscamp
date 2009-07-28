@@ -21,6 +21,9 @@ Printre ei se numără:
  * Dan Botezatu
  * <a href="http://www.linkedin.com/in/doruilasi">Doru Ilași</a> - <a href="http://rosi.ro">ROSI</a>, <a href="http://firebird.ro">Firebird</a>
  * <a href="http://mapopa.blogspot.com/">Marius Popa</a> - <a href="http://www.lug-mures.org/">LUG Mureș</a>, <a href="http://firebird.ro">Firebird</a>
+ * Sergiu Fodor
+ * Sebastian Popity - <a href="http://www.arlug.ro">ArLug</a>
+ * Călin Miclăuș - <a href="http://www.arlug.ro">ArLug</a>
 
 ### Importanța participării ###
 
