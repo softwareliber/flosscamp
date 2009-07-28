@@ -1,4 +1,4 @@
-Și-au anunțat prezența 35 de persoane până acum
+Și-au anunțat prezența 43 de persoane până acum
 ===============================================
 
 Printre ei se numără:
