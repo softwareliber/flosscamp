@@ -15,8 +15,8 @@ Scopul principal al acestui eveniment este de a întări legăturile dintre comu
 
 Participarea este liberă. Nu există taxă de participare sau de campare!
 
-### Program ###
-
+Program
+=========
 Programul nu este impus, ci va fi stabilit la fața locului în sistem [BarCamp](http://en.wikipedia.org/wiki/BarCamp).
 
 > <b>BarCamp</b> este o adunare ad-hoc născută din dorința oamenilor de a împărtăși și a învăța într-un mediu deschis.
