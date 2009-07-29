@@ -19,8 +19,7 @@ Participarea este liberă. Nu există taxă de participare sau de campare!
 
 Programul nu este impus, ci va fi stabilit la fața locului în sistem [BarCamp](http://en.wikipedia.org/wiki/BarCamp).
 
-> '''Ce este BarCamp'''
-> BarCamp este o adunare ad-hoc născută din dorința oamenilor de a împărtăși și a învăța într-un mediu deschis.
+> <b>BarCamp</b> este o adunare ad-hoc născută din dorința oamenilor de a împărtăși și a învăța într-un mediu deschis.
 > Este un eveniment intens cu discuții, demonstrații și presupune interacțiune între participanți.
 > Este invitat oricine vrea să contribuie sau să învețe.
 > Când vii la BarCamp, te pregătești să împărtășești cu ceilalți participanți.
