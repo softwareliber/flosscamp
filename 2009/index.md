@@ -30,7 +30,7 @@ Programul nu este impus, ci va fi stabilit la fața locului în sistem [BarCamp]
 > Pregătiți-vă din timp, dar veniți dimineața devreme pentru a prinde un slot liber pe panou.
 > Ceilalți participanți vor putea apoi să aleagă de pe panou evenimentele la care vor să participe.
 
-Vom avea un [panou sau ceva similar](http://www.barcampedmonton.com/wp-content/uploads/2008/07/barcamp-schedule-wide.jpg) pe care fiecare va putea ocupa un slot cu o discuție, specificând tema, numele său și durata estimată.
+Vom avea un [panou sau ceva similar](http://fedora.nicubunu.ro/photos/fudcon2008brno/day2/039-img_4289.jpg) pe care fiecare va putea ocupa un slot cu o discuție, specificând tema, numele său și durata estimată.
 
 Anul trecut s-a vorbit despre:
 
