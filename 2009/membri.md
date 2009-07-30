@@ -1,4 +1,4 @@
-Și-au anunțat prezența 43 de persoane până acum
+Și-au anunțat prezența 44 de persoane până acum
 ===============================================
 
 Printre ei se numără:
@@ -24,11 +24,13 @@ Printre ei se numără:
  * Sergiu Fodor
  * Sebastian Popity - <a href="http://www.arlug.ro">ArLug</a>
  * Călin Miclăuș - <a href="http://www.arlug.ro">ArLug</a>
+ * Rareș Benea - <a href="http://www.arlug.ro">ArLug</a>
+ * Stan Ioan-Eugen
 
 ### Importanța participării ###
 
-Considerăm că participarea la acest eveniment va ajuta și va apropria comunitățiile din România. 
-Scopul principal este întărirea colaborării între comunitățile de software liber din România, 
+Considerăm că participarea la acest eveniment va ajuta și va apropria comunitățiile din România.
+Scopul principal este întărirea colaborării între comunitățile de software liber din România,
 de aceea este foarte important ca în cadrul acestui eveniment să participe reprezentați ai cât mai multor comunități.
 
 Discuțiile din cadrul evenimentului sunt dirijate de comunitățile prezente.
