@@ -43,3 +43,8 @@ Anul trecut s-a vorbit despre:
  * Promovarea cunoștințelor, informațiilor, materialelor libere în rândul tinerilor din România
 
  Unele teme merită reluate.
+
+Ultimele informații
+==================
+
+Există o [pagină unde se coordonează plecările](http://trac.softwareliber.ro/gsl/wiki/FLOSSCamp/2009/Plecări), în caz că vreți să oferiți un cort sau un sac de dormit în plus, un loc în mașină sau pur și simplu vreți să mergeți împreună cu cineva, bară la bară sau în același compartiment.
