@@ -28,7 +28,7 @@ Printre ei se numără:
  * Stan Ioan-Eugen
  * Ion-Mihai „IOnut” Tetcu - FreeBSD, DSPAM
  * Ionutz Borcoman
- * (Ionuț Cotoi)[http://www.icotoi.ro]
+ * <a href="http://www.icotoi.ro">Ionuț Cotoi</a>
 
 ### Importanța participării ###
 
