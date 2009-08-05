@@ -38,7 +38,8 @@ $camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
 		</div>
 		<div id="coada">
 			<p style="float: right">
-				Folosim <a href="http://michelf.com/projects/php-markdown/">Markdown</a>,
+				Folosim <a href="http://michelf.com/projects/php-markdown/">Markdown</a>
+				și <a href="http://git-scm.com/">Git</a>,
 				vezi <a href="/2009/syntax">sintaxa</a>.
 			</p>
 			<p>
