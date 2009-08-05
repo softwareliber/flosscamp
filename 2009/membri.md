@@ -1,4 +1,4 @@
-Și-au anunțat prezența 47 de persoane până acum
+Și-au anunțat prezența 51 de persoane până acum
 ===============================================
 
 Printre ei se numără:
@@ -28,6 +28,7 @@ Printre ei se numără:
  * Stan Ioan-Eugen
  * Ion-Mihai „IOnut” Tetcu - FreeBSD, DSPAM
  * Ionutz Borcoman
+ * (Ionuț Cotoi)[http://www.icotoi.ro]
 
 ### Importanța participării ###
 
