@@ -50,7 +50,9 @@ Ultimele informații
 Există o [pagină unde se coordonează plecările](http://trac.softwareliber.ro/gsl/wiki/FLOSSCamp/2009/Plecări), în caz că vreți să oferiți un cort sau un sac de dormit în plus, un loc în mașină sau pur și simplu vreți să mergeți împreună cu cineva, bară la bară sau în același compartiment.
 
 Prognoza meteo:
+
  * Vineri, 14 august: 14-26°C, soare
  * Sâmbătă, 15 august: 12-23°C, soare și ceva nori, posibil ploaie noaptea
  * Duminică, 16 august: 12-24°C, cer înnorat
+
 <i>Prognoza e obținută de la [accuweather.com](http://www.accuweather.com/world-forecast-15day.asp?partner=forecastbar&traveler=0&locCode=EUR|RO|RO034|SIBIU&metric=1) pentru Sibiu, este doar o prognoză și trebuie luată ca atare.</i>
