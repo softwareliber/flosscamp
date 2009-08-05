@@ -1,4 +1,4 @@
-Și-au anunțat prezența 45 de persoane până acum
+Și-au anunțat prezența 47 de persoane până acum
 ===============================================
 
 Printre ei se numără:
@@ -27,6 +27,7 @@ Printre ei se numără:
  * Rareș Benea - <a href="http://www.arlug.ro">ArLug</a>
  * Stan Ioan-Eugen
  * Ion-Mihai „IOnut” Tetcu - FreeBSD, DSPAM
+ * Ionutz Borcoman
 
 ### Importanța participării ###
 
