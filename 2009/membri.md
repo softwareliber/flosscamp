@@ -1,4 +1,4 @@
-Și-au anunțat prezența 55 de persoane până acum
+Și-au anunțat prezența 56 de persoane până acum
 ===============================================
 
 Printre ei se numără:
@@ -31,6 +31,7 @@ Printre ei se numără:
  * <a href="http://www.icotoi.ro">Ionuț Cotoi</a>
  * <a href="http://www.linkedin.com/in/dianacionoiu">Diana Cionoiu</a> - <a href="http://yate.null.ro">Yate</a>
  * <a href="http://blog.razius.org/">Silviu Tanțoș</a> - <a href="http://www.lug-mures.org/">LUG Mureș</a>, <a href="http://archlinux.ro">Arch Linux</a>
+ * Cristian Bercaru - <a href="http://ceata.org">Ceata</a>
 
 ### Importanța participării ###
 

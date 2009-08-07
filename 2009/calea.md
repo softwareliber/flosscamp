@@ -15,13 +15,13 @@ Din Sibiu, la ora 7 pleaca un autobuz (linia 22) care merge până în Păltini�
 
 Plecări din Sibiu, chiar la ieșirea din gară la orele 7, 11 și 16. [Orar linia 22](http://www.tursib.ro/index.php?page=89)
 
-Cu mașina (clic pentru detalii):
+Cu mașina (clic pentru detalii) ~16km:
 
 <a target="_blank" href="http://data.giub.uni-bonn.de/openrouteservice/index.php?start=24.1499033,45.7896562&end=24.0126171,45.7120376&pref=Fastest&lang=en&noMotorways=false&noTollways=false"><img src="http://camp.softwareliber.ro/2009/poze/Drumul cu mașina din Sibiu la Curmătura Ștezii.png" /></a>
 
 ### Pas 3 - de la Curmătura Ștezii la locul de campare ###
 
-Dacă ai mașină, motor sau bicicletă, urmează drumul afișat mai jos. 
+Dacă ai mașină, motor sau bicicletă, urmează drumul afișat mai jos.
 
 Dacă nu, cineva ar trebui să fie acolo să te aștepte pentru a te duce cu mașina la locul de campare.
 
