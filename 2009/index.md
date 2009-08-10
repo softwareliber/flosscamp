@@ -8,7 +8,7 @@ Anul acesta FLOSSCamp își dorește nu doar să repete, ci și să mărească [
 La acest eveniment offline și-au anunțat participarea membrii ai comunităților [Fedora](http://www.fedoraproject.ro/),
 [Mozilla](http://mozilla.ro), [OpenOffice.org](http://ro.openoffice.org), [Ubuntu](http://ubuntu.ro), [KiwiLinux](http://kiwilinux.org),
 [Ceata](http://ceata.org), [suseromania.ro](http://suseromania.ro), [LUG Sibiu](http://www.sblug.ro), [LUG Mureș](http://lug-mures.ro), [LUG Arad](http://www.arlug.ro),
-[FirebirdSQL](http://firebird.ro) și [ArchLinux](http://archlinux.ro). Pe lângă persoanele implicate în [Grupul pentru software liber](http://softwareliber.ro) așteptăm să ni
+[FirebirdSQL](http://firebird.ro), comunitatea [FreeBSD](http://freebsd.org) &mdash; [RoFUG](http://rofug.ro) și [ArchLinux](http://archlinux.ro). Pe lângă persoanele implicate în [Grupul pentru software liber](http://softwareliber.ro) așteptăm să ni
 se alăture membri ai altor comunități precum și alte persoane interesate de software liber.
 
 Scopul principal al acestui eveniment este de a întări legăturile dintre comunitățile și utilizatorii de software liber din România.
