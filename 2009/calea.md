@@ -36,6 +36,12 @@ Dacă nu, sună la 0746839225 (Marius, SBLug) sau 0723368081 (Alexandru Szasz) p
 <img src="http://lh4.ggpht.com/_I2bh26gyfUU/SlzcssjtMxI/AAAAAAAAGF4/n5fphfabUUA/s220/Picture%20045.jpg" />
 <img src="http://lh6.ggpht.com/_I2bh26gyfUU/SlzcyJk17yI/AAAAAAAAGGw/9vJINWri9XM/s220/Picture%20016.jpg" />
 
+### Materiale utile ###
+
+Harta împrejurimilor (clic pentru varianta mare):
+
+<a href="http://camp.softwareliber.ro/2009/hărți/cindrel-cibin.jpg"><img src="http://camp.softwareliber.ro/2009/hărți/cindrel-cibin-mic.jpg" /></a>
+
 ***
 
 Cele scrise mai sus, au doar caracter informativ. Înainte de a porni la drum te rugăm să verifici valabilitatea datelor. În cazul în care ai corectări sau vrei să adaugi informații, te rugăm să ne contactezi.
