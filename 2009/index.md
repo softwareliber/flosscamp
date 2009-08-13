@@ -51,8 +51,8 @@ Există o [pagină unde se coordonează plecările](http://trac.softwareliber.ro
 
 Prognoza meteo:
 
- * Vineri, 14 august: 14-26°C, soare
- * Sâmbătă, 15 august: 12-23°C, soare și ceva nori, posibil ploaie noaptea
- * Duminică, 16 august: 12-24°C, cer înnorat
+ * Vineri, 14 august: 14-27°C, ploi răzlețe
+ * Sâmbătă, 15 august: 12-29°C, soare
+ * Duminică, 16 august: 14-30°C, soare, câțiva nori
 
 <i>Prognoza e obținută de la [accuweather.com](http://www.accuweather.com/world-forecast-15day.asp?partner=forecastbar&traveler=0&locCode=EUR|RO|RO034|SIBIU&metric=1) pentru Sibiu, este doar o prognoză și trebuie luată ca atare.</i>
