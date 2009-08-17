@@ -1,3 +1,8 @@
+FLOSSCamp 2009 s-a încheiat!
+============================
+
+Ești invitat să [vezi pozele](/2009/poze/index.php) cum a fost, sau [citește un rezumat](http://softwareliber.ro/articolul/947/) a evenimentului.
+
 Descriere
 =========
 
