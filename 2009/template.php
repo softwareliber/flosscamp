@@ -22,7 +22,7 @@ $camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
 		<div id="gat">
 			<ul>
 				<li><a href="/2009/" title="Acasă">Despre</a></li>
-				<li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li>
+				<!--li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li-->
 				<!--li><a href="/2009/participa" title="Participă">Participă / Agenda</a></li-->
 				<li><a href="/2009/membri" title="Pe cine vei întâlni">Participanți</a></li>
 				<li><a href="/2009/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li>				
