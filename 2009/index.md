@@ -3,7 +3,7 @@ FLOSSCamp 2009 s-a încheiat!
 
 Ești invitat să [vezi pozele](/2009/poze/index.php) cum a fost, sau [citește un rezumat](http://softwareliber.ro/articolul/947/) a evenimentului.
 
-<video src="http://data.softwareliber.ro/flosscamp/2009/FLOSS_CAMP_2009.ogv" width="660" controls="true" ><a href="http://www.youtube.com/watch?v=H2IvSKR4cOY&hd=1">Vezi versiunea flash a filmulețului.</a></video>
+<video src="http://data.softwareliber.ro/flosscamp/2009/FLOSS_CAMP_2009_small.ogv" width="660" controls="true" ><a href="http://www.youtube.com/watch?v=H2IvSKR4cOY&hd=1">Vezi versiunea flash a filmulețului.</a></video>
 
 Descriere
 =========
