@@ -1,37 +1,13 @@
-Și-au anunțat prezența 56 de persoane până acum
+Au fost la FLOSSCamp 2009
 ===============================================
 
-Printre ei se numără:
+<style type="text/css" media="all">@import "/css/annotation.css";</style>  
+<script type="text/javascript" src="/js/jquery.js"></script>  
+<script type="text/javascript" src="/js/jquery-ui-1.7.1.js"></script>  
+<script type="text/javascript" src="/js/jquery.annotate.js"></script>
+<script type="text/javascript">$(window).load(function() { $("#flosscamp_anotat").annotateImage({ getUrl: "/api/get.php", saveUrl: "/api/save.php", deleteUrl: "/api/delete.php", useAjax: true }); });</script>
 
- * Alexandru Brezean - <a href="http://www.ubuntu.ro">ubuntu.ro</a>
- * <a href="http://ramblingfoo.blogspot.com">Eddy Petrișor</a> - <a href="http://wiki.debian.org/L10N/Romanian/">Debian</a></li>
- * <a href="http://adi.roiban.ro">Adi Roiban</a> - <a href="http://www.ubuntu.ro">ubuntu.ro</a>, <a href="http://groups.google.ro/group/diacritice/about">diacritice</a>
- * Cucu Alexandru - <a href="http://www.ubuntu.ro">ubuntu.ro</a>
- * <a href="http://alexxed.com">Alexandru Szasz</a> - <a href="http://mozilla.ro">mozilla.ro</a>, <a href="http://ro.openoffice.org">ro.openoffice.org</a>, <a href="http://fedoraproject.ro">fedoraproject.ro</a>, <a href="http://softwareliber.ro">softwareliber.ro</a>
- * <a href="http://nicubunu.ro">Nicu Buculei</a> - <a href="http://fedoraproject.ro">fedoraproject.ro</a>
- * <a href="http://ajoian.ro">Adrian Joian</a> - <a href="http://fedoraproject.ro">fedoraproject.ro</a>
- * <a href="http://stas.nerd.ro">Stas Sushkov</a> - <a href="http://www.ubuntu.ro">ubuntu.ro</a>, <a href="http://softwareliber.ro">softwareliber.ro</a>
- * <a href="http://ionutjula.blogspot.com">Ionuț Jula</a> - <a href="http://www.ubuntu.ro">ubuntu.ro</a>
- * <a href="http://sblug.ro">Sibiu Linux Users Group (10 persoane)</a>
- * <a href="http://igor.tla.ro/">Igor Știrbu</a>
- * Tibi Turbureanu - <a href="http://ceata.org">Ceata</a>
- * <a href="http://volodia.ro/">Volodia Macovei</a> - <a href="http://archlinux.ro">Arch Linux</a>
- * Bucataru Ionuț Eugen
- * <a href="http://www.strainu.ro">Andrei Cipu</a> - <a href="http://suseromania.ro">suseromania.ro</a>
- * Dan Botezatu
- * <a href="http://www.linkedin.com/in/doruilasi">Doru Ilași</a> - <a href="http://rosi.ro">ROSI</a>, <a href="http://firebird.ro">Firebird</a>
- * <a href="http://mapopa.blogspot.com/">Marius Popa</a> - <a href="http://www.lug-mures.org/">LUG Mureș</a>, <a href="http://firebird.ro">Firebird</a>
- * Sergiu Fodor
- * Sebastian Popity - <a href="http://www.arlug.ro">ArLug</a>
- * Călin Miclăuș - <a href="http://www.arlug.ro">ArLug</a>
- * Rareș Benea - <a href="http://www.arlug.ro">ArLug</a>
- * Stan Ioan-Eugen
- * Ion-Mihai „IOnut” Tetcu - FreeBSD, DSPAM
- * Ionutz Borcoman
- * <a href="http://www.icotoi.ro">Ionuț Cotoi</a>
- * <a href="http://www.linkedin.com/in/dianacionoiu">Diana Cionoiu</a> - <a href="http://yate.null.ro">Yate</a>
- * <a href="http://blog.razius.org/">Silviu Tanțoș</a> - <a href="http://www.lug-mures.org/">LUG Mureș</a>, <a href="http://archlinux.ro">Arch Linux</a>
- * Cristian Bercaru - <a href="http://ceata.org">Ceata</a>
+<img src="/2009/poze/Participanti la FLOSSCamp 2009.jpg" id="flosscamp_anotat " />
 
 ### Importanța participării ###
 
