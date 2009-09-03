@@ -57,7 +57,7 @@
 
         // Add the "Add a note" button
         if (this.editable) {
-            this.button = $('<a class="image-annotate-add" id="image-annotate-add" href="#">Recunoști o față, dă-i un nume.</a>');
+            this.button = $('<a class="image-annotate-add" id="image-annotate-add" href="#">Recunoști o față, dă-i un nume</a>');
             this.button.click(function() {
                 $.fn.annotateImage.add(image);
             });
