@@ -3,7 +3,7 @@
 
 		function __construct($filename = "data.csv") {
 			$this->filename = $filename;
-			$this->file = @fopen($filename, "r");
+			$this->file = @fopen($filename, "r+");
 			$this->items = $this->csv_to_array();
 		}
 
