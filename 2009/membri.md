@@ -5,6 +5,8 @@ Au fost la FLOSSCamp 2009
 
 <img src="/2009/poze/Participanti la FLOSSCamp 2009.jpg" id="flosscamp_anotat" alt=" " style="margin-left: 200px;" />
 
+&nbsp;
+
 ### Importanța participării ###
 
 Considerăm că participarea la acest eveniment va ajuta și va apropria comunitățiile din România.
