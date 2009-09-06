@@ -8,8 +8,8 @@
 	<link rel="shortcut icon" href="http://camp.softwareliber.ro/favicon.ico" />
 	<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.fancybox.css" />
-	<script type="text/javascript" src="/js/jquery.js"></script>
-	<script type="text/javascript" src="/js/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.fancybox-1.2.1.pack.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$(".poze a").fancybox({
