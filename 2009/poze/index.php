@@ -30,10 +30,10 @@
 		<div id="gat">	
 		    <ul>
 		    <li><a href="/2009/" title="Acasă">Despre</a></li>
-		    <li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li>
+		    <!--li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li-->
 		    <!--li><a href="/2009/participa" title="Participă">Participă / Agenda</a></li-->
 		    <li><a href="/2009/membri" title="Pe cine vei întâlni">Participanți</a>
-		    <li><a title="Poze cu locul unde se va desfășura FLOSSCamp 2009">Poze cu locul de campare</a></li>				
+		    <li><a href="/2009/poze" title="Poze de la FLOSSCamp 2009">Poze</a></li>				
 		    <li><a href="/2009/calea" title="Hai și tu!">Cum ajungi?</a></li>
 		    <li><a href="/2009/contact" title="Scrie-ne">Contact</a></li>
 		    </ul>			
