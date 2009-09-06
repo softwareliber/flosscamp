@@ -140,7 +140,7 @@ a#fancy_left, a#fancy_right {
 }
 
 a#fancy_right:hover, a#fancy_left:hover {
-	background-color: none;
+	background: none;
 }
 
 a#fancy_left {
