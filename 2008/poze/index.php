@@ -12,14 +12,13 @@
 	<script type="text/javascript" src="/js/jquery.fancybox.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$(".poze a").fancybox({ 'hideOnContentClick': true, 'zoomSpeedIn': 300, 'zoomSpeedOut': 300, 'overlayShow': true });
-			
+			$(".poze a").fancybox({
+				'hideOnContentClick': true,
+				'zoomSpeedIn': 300,
+				'zoomSpeedOut': 300,
+				'overlayShow': true 
+			});
 		});
-		function getGroupItems(opts) {
-			jQuery.each(".poze a", function(i) {
-		        opts.itemArray.push.attr("rel");
-		    });
-		}
 	</script>
 </head>
 <body>
