@@ -139,6 +139,10 @@ a#fancy_left, a#fancy_right {
 	outline: none;
 }
 
+a#fancy_right:hover, a#fancy_left:hover {
+	background-color: none;
+}
+
 a#fancy_left {
 	left: 0px; 
 }
