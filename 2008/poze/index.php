@@ -33,7 +33,7 @@
 				<li><a href="/2008/participa" title="Participă">Participă / Agenda</a></li>
 				<li><a href="/2008/membri" title="Pe cine vei întâlni">Cine vine</a></li>
 				<li><a href="/2008/calea" title="Hai și tu!">Cum ajungi?</a></li>
-				<li><a href="/2008/poze" title="Cine a fost">Poze</a></li>
+				<li><a href="/2008/poze/index.php" title="Cine a fost">Poze</a></li>
 				<li><a href="/2008/contact" title="Scrie-ne">Contact</a></li>
 			</ul>
 		</div>
