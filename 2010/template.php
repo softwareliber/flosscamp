@@ -1,6 +1,6 @@
 <?php
 $wikiname = "FLOSSCamp 2010";
-$wikitagline = "Întâlnirea comunităților FLOSS din România";
+$wikitagline = "Întâlnirea utilizatorilor și dezvoltatorile de software liber";
 $camplocation = "Vara 2010<br />Undeva în România";
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
