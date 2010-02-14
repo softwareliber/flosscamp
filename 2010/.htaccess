@@ -1,0 +1,9 @@
+Options +FollowSymLinks -Multiviews
+
+DirectoryIndex index.php index.html markdown/markdown.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . markdown/markdown.php [L]
+</IfModule>
