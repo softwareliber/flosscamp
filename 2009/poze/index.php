@@ -6,7 +6,10 @@
 	<title>FLOSSCamp 2009 / Poze cu locul de campare</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<link rel="shortcut icon" href="http://camp.softwareliber.ro/favicon.ico" />
-	<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+	<link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print" />    
+	<!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+	<link rel="stylesheet" href="/css/style.css?v=2010" type="text/css" media="screen, projection" />	
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.fancybox.css" />
 	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.fancybox-1.2.1.pack.js"></script>

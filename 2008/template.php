@@ -10,10 +10,10 @@ $camplocation = "Păltiniș, 29-30-31 august";
 <head>
 	<title><?php echo $wikiname." / ".$title ?></title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">    
-	<!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
-	<link rel="stylesheet" href="/css/style.css?v=2010" type="text/css" media="screen, projection">	
+	<link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print" />    
+	<!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+	<link rel="stylesheet" href="/css/style.css?v=2010" type="text/css" media="screen, projection" />	
 	<link rel="shortcut icon" href="http://camp.softwareliber.ro/favicon.ico" />
 </head>
 <body>
