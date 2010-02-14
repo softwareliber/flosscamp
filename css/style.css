@@ -50,20 +50,6 @@ html, body {
     padding:10px;
 }
 
-#gat ul li a {
-    color:#fff;
-    text-shadow:0 1px 1px rgba(0, 0, 0, 0.75);
-    text-decoration:none;
-    text-transform:uppercase;
-}
-
-#gat ul li a:hover {
-    color:#fff;
-    text-shadow:0 1px 1px rgba(255, 255, 255, 0.5);
-    text-decoration:none;
-    text-transform:uppercase;
-}
-
 #coada {
     border-top:1px solid #69AB00;
     margin-top:30px;
@@ -110,6 +96,24 @@ h1 a, h2 a, h3 a, h4 a {
 #cap h3 {
     font-size:1em;
     font-style:italic;
+}
+
+#gat {
+    text-align:left;
+}
+
+#gat ul li a {
+    color:#fff;
+    text-shadow:0 1px 1px rgba(0, 0, 0, 0.75);
+    text-decoration:none;
+    text-transform:uppercase;
+}
+
+#gat ul li a:hover {
+    color:#fff;
+    text-shadow:0 1px 1px rgba(255, 255, 255, 0.5);
+    text-decoration:none;
+    text-transform:uppercase;
 }
 
 #corp {
