@@ -1,32 +1,124 @@
-html, body {background-color: #fff; font-family: Tahoma , Geneva, sans-serif; font-size: 12px; color: #191b00}
-a {text-decoration: underline; color: #69ab00;}
-a:visited {text-decoration: underline; color: #666;}
-a:hover {text-decoration: none; background-color: #69ab00; color: #ffff22;}
+/**
+ * Camp.SoftwareLiber.Ro 2010
+ * FlossCamp 2010, 14 Feb.
+ */
 
-h2 {font-size: 30px;}
+/* Layout */
+html, body {
+    background:#F7F7F7;
+}
 
-#continut {width: 700px; margin: 50px auto;}
-#cap {height: 150px; background: url("/img/flosscamp.png") no-repeat top left;}
-#cap h1 {margin-left:150px; padding-top: 0px;}
-#cap h1 a {text-decoration: none; color: #69ab00;}
-#cap hi a:visited {color: #69ab00;}
-#cap h1 a:hover {text-decoration: none; background-color: #fff; color: #69ab00;}
-#cap h3 {margin: 0px 0 0 150px;}
+#cap {
+    height:131px;
+    background: url("/img/flosscamp.png") no-repeat left;
+}
 
-#gat {border: 1px solid #69ab00;}
-#gat ul {font-size: 12px; font-weight: bolder;}
-#gat ul li {display: inline; padding: 5px 10px;}
+#cap h1 {
+    margin-top:20px;
+    margin-left:120px;
+}
 
-#corp {padding: 20px;}
-#corp h1 {font-size: 18px;}
-#corp p img, #corp p a img {background-color: #fff; padding: 2px; border: 5px solid #69ab00;}
-#corp p a:hover img {background-color: #fff; padding: 2px; border: 5px solid #666;}
-#corp .mesaj {text-align: center;}
-#corp .mesaj img {display: block; margin: auto; border: none;}
-#corp form {width: 400px; margin: 0 auto;}
-#corp form p label {display: block; width: 150px; float: left;}
-#corp form p input, #corp form p textarea {padding: 2px; width: 100%;}
-#corp form p textarea {height: 200px;}
+#cap h3 {
+    margin-left:120px;
+    border-top: 1px solid #69AB00;
+    padding-top:10px;
+}
 
-#coada {border: 1px solid #69ab00; padding: 10px; font-size: 10px;}
-#coada p {padding: 1px;}
+#continut {
+    -moz-border-radius:11px;
+    -webkit-border-radius:11px;
+    border-radius:11px;
+    background:#FFFFFF;
+    border:1px solid #dfdfdf;
+    margin:30px auto 10px;
+    padding:10px 20px;
+    width:900px;
+}
+
+#gat ul {
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border-radius:4px;
+    background:#444;
+    background:rgba(0, 0, 0, 0.5);
+    padding:10px;
+    margin: 20px auto;
+}
+
+#gat ul li {
+    display:inline;
+    padding:10px;
+}
+
+#gat ul li a{
+    color:#fff;
+    text-shadow:0 1px 1px rgba(0, 0, 0, 0.75);
+    text-decoration:none;
+    text-transform:uppercase;
+}
+
+#gat ul li a:hover{
+    color:#fff;
+    text-shadow:0 1px 1px rgba(255, 255, 255, 0.5);
+    text-decoration:none;
+    text-transform:uppercase;
+}
+
+#coada {
+    border-top:1px solid #69AB00;
+    margin-top:30px;
+    padding-top:10px;
+}
+
+video {
+    margin:0 auto;
+    display:block;
+}
+
+/* Typography */
+html, body {
+    color:#333;
+    font-family:"Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+}
+
+h1, h2, h3, h4 {
+    color:#444;
+}
+
+a, a:active {
+    color:#69AB00;
+    text-decoration:underline;
+}
+
+h1 a, h2 a, h3 a, h4 a {
+    text-decoration:none;
+}
+
+#cap h1 {
+    font-size:2em;
+    line-height:1.2em;
+}
+
+#cap h1 a:hover {
+    color:#69AB00;
+}
+
+#cap h3 {
+    font-size:1em;
+    font-style:italic;
+}
+
+#corp h1 {
+    font-size:1.5em;
+    font-style:italic;
+}
+
+#corp p img, #corp p a img {
+    background-color:#FFFFFF;
+    border:5px solid #69AB00;
+    padding:2px;
+}
+
+#coada {
+    font-size:80%;
+}
