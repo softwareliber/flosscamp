@@ -50,14 +50,14 @@ html, body {
     padding:10px;
 }
 
-#gat ul li a{
+#gat ul li a {
     color:#fff;
     text-shadow:0 1px 1px rgba(0, 0, 0, 0.75);
     text-decoration:none;
     text-transform:uppercase;
 }
 
-#gat ul li a:hover{
+#gat ul li a:hover {
     color:#fff;
     text-shadow:0 1px 1px rgba(255, 255, 255, 0.5);
     text-decoration:none;
@@ -94,6 +94,10 @@ h1 a, h2 a, h3 a, h4 a {
     text-decoration:none;
 }
 
+#cap {
+    text-align:left;
+}
+
 #cap h1 {
     font-size:2em;
     line-height:1.2em;
@@ -106,6 +110,10 @@ h1 a, h2 a, h3 a, h4 a {
 #cap h3 {
     font-size:1em;
     font-style:italic;
+}
+
+#corp {
+    text-align:left;
 }
 
 #corp h1 {
