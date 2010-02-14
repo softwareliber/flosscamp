@@ -1,7 +1,7 @@
 <?php
-$wikiname = "FLOSSCamp 2009";
+$wikiname = "FLOSSCamp 2010";
 $wikitagline = "Întâlnirea comunităților FLOSS din România";
-$camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
+$camplocation = "Vara 2010<br />Undeva în România";
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -24,14 +24,14 @@ $camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
 		</div>
 		<div id="gat">
 			<ul>
-				<li><a href="/2009/" title="Acasă">Despre</a></li>
-				<li><a href="/2009/propuneri" title="Propuneri">Propuneri</a></li>
-				<!--li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li-->
-				<!--li><a href="/2009/participa" title="Participă">Participă / Agenda</a></li-->
-				<!--li><a href="/2009/membri" title="Pe cine vei întâlni">Participanți</a></li-->
-				<!--li><a href="/2009/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li-->				
-				<!--li><a href="/2009/calea" title="Hai și tu!">Cum ajungi?</a></li-->
-				<li><a href="/2009/contact" title="Scrie-ne">Contact</a></li>
+				<li><a href="/2010/" title="Acasă">Despre</a></li>
+				<li><a href="/2010/propuneri" title="Propuneri">Propuneri</a></li>
+				<!--li><a href="/2010/inscriere" title="Înscriere">Înscriere</a></li-->
+				<!--li><a href="/2010/participa" title="Participă">Participă / Agenda</a></li-->
+				<!--li><a href="/2010/membri" title="Pe cine vei întâlni">Participanți</a></li-->
+				<!--li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li-->				
+				<!--li><a href="/2010/calea" title="Hai și tu!">Cum ajungi?</a></li-->
+				<li><a href="/2010/contact" title="Scrie-ne">Contact</a></li>
 			</ul>
 		</div>
 		<div id="corp">
@@ -44,7 +44,7 @@ $camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
 			<p style="float: right">
 				Folosim <a href="http://michelf.com/projects/php-markdown/">Markdown</a>
 				și <a href="http://git-scm.com/">Git</a>,
-				vezi <a href="/2009/syntax">sintaxa</a>.
+				vezi <a href="/2010/syntax">sintaxa</a>.
 			</p>
 			<p>
 				Un proiect al <a href="http://www.softwareliber.ro/" title="Pagina grupului">Grupului pentru software liber</a>.
