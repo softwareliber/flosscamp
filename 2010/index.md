@@ -34,5 +34,5 @@ Vom avea un [panou sau ceva similar](http://fedora.nicubunu.ro/photos/fudcon2008
 Ultimele informații
 ==================
 
-Există o [pagină unde se coordonează plecările](http://proiecte.softwareliber.ro/projects/flosscamp/wiki/FLOSSCamp2010), în caz că vreți să oferiți un cort sau un sac de dormit în plus, un loc în mașină sau pur și simplu vreți să mergeți împreună cu cineva, bară la bară sau în același compartiment.
+Există o [pagină unde se coordonează plecările](http://proiecte.softwareliber.ro/projects/flosscamp/wiki/2010), în caz că vreți să oferiți un cort sau un sac de dormit în plus, un loc în mașină sau pur și simplu vreți să mergeți împreună cu cineva, bară la bară sau în același compartiment.
 
