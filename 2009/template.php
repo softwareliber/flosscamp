@@ -54,5 +54,15 @@ $camplocation = "14 - 16 August<br />Curmătura Ștezii, județul Sibiu";
 			</p>
 		</div>
 	</div>
+	<script type="text/javascript">
+	       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%
+	</script>
+	<script type="text/javascript">
+	       try {
+	       var pageTracker = _gat._getTracker("UA-557998-6");
+	       pageTracker._trackPageview();
+	       } catch(err) {}
+	</script>
 </body>
 </html>
