@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-	<title>FLOSSCamp 2009 / Poze cu locul de campare</title>
+	<title>FLOSSCamp 2010 / Poze cu locul de campare</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<link rel="shortcut icon" href="http://camp.softwareliber.ro/favicon.ico" />
 	<link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection" />
@@ -27,18 +27,19 @@
 <body>
 	<div id="continut">
 		<div id="cap">
-			<h1><a href="/" title="Un alt mod de promova software liber :)">FLOSSCamp 2009<br />14 - 16 August<br />Curmătura Ștezii, județul Sibiu</a></h1>
+			<h1><a href="/" title="Un alt mod de promova software liber :)">FLOSSCamp 2010<br />(6)7-8 August<br />Predeal, Brașov, România</a></h1>
 			<h3>Întâlnirea comunităților FLOSS din România</h3>
 		</div>
 		<div id="gat">	
 		    <ul>
-		    <li><a href="/2009/" title="Acasă">Despre</a></li>
-		    <!--li><a href="/2009/inscriere" title="Înscriere">Înscriere</a></li-->
-		    <!--li><a href="/2009/participa" title="Participă">Participă / Agenda</a></li-->
-		    <li><a href="/2009/membri" title="Pe cine vei întâlni">Participanți</a>
-		    <li><a href="/2009/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li>				
-		    <li><a href="/2009/calea" title="Hai și tu!">Cum ajungi?</a></li>
-		    <li><a href="/2009/contact" title="Scrie-ne">Contact</a></li>
+				<li><a href="/2010/" title="Acasă">Despre</a></li>
+				<!--li><a href="/2010/propuneri" title="Propuneri">Propuneri</a></li-->
+				<li><a href="/2010/inscriere" title="Înscriere">Înscriere</a></li>
+				<!--li><a href="/2010/participa" title="Participă">Participă / Agenda</a></li-->
+				<!--li><a href="/2010/membri" title="Pe cine vei întâlni">Participanți</a></li-->
+				<li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2010">Poze</a></li>				
+				<li><a href="/2010/calea" title="Hai și tu!">Cum ajungi?</a></li>
+                <li><a href="/2010/contact" title="Scrie-ne">Contact</a></li>
 		    </ul>			
 		</div>
 		<div id="corp">
@@ -139,7 +140,7 @@
 				  if(!file_exists("thumbnails/thumb_$photo"))
 				    makeThumbnail($photo, 100);
 				
-				  echo "\n<a href=\"$photo\" class=\"fb\" rel=\"flossCamp2009\"><img src=\"thumbnails/thumb_$photo\" alt=\"poza\" /></a>\n";
+				  echo "\n<a href=\"$photo\" class=\"fb\" rel=\"flossCamp2010\"><img src=\"thumbnails/thumb_$photo\" alt=\"poza\" /></a>\n";
 				}		
 				?>
 			</p>
