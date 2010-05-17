@@ -1,7 +1,7 @@
 <?php
 $wikiname = "FLOSSCamp 2010";
 $wikitagline = "Întâlnirea utilizatorilor și dezvoltatorile de software liber";
-$camplocation = "Vara 2010<br />Undeva în România";
+$camplocation = "(6)7-8 August 2010<br />Predeal, Brașov, România";
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -29,8 +29,8 @@ $camplocation = "Vara 2010<br />Undeva în România";
 				<li><a href="/2010/inscriere" title="Înscriere">Înscriere</a></li>
 				<!--li><a href="/2010/participa" title="Participă">Participă / Agenda</a></li-->
 				<!--li><a href="/2010/membri" title="Pe cine vei întâlni">Participanți</a></li-->
-				<!--li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li-->				
-				<!--li><a href="/2010/calea" title="Hai și tu!">Cum ajungi?</a></li-->
+				<li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2009">Poze</a></li>				
+				<li><a href="/2010/calea" title="Hai și tu!">Cum ajungi?</a></li>
 				<li><a href="/2010/contact" title="Scrie-ne">Contact</a></li>
 			</ul>
 		</div>
