@@ -4,7 +4,7 @@ Promovare
 Pentru promovare se pot folosi unul din banerele de mai jos.
 Sunteți liberi să includeți pozele în pagini web, sau modifica sursele și redistribui.
 
-Kudos Nicu pentru banere.
+Kudos [Nicu](http://nicubunu.blogspot.com/) pentru banere.
 
 ###Surse
 
