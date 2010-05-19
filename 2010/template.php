@@ -31,7 +31,8 @@ $camplocation = "(6)7-8 August 2010<br />Predeal, Brașov, România";
 				<!--li><a href="/2010/membri" title="Pe cine vei întâlni">Participanți</a></li-->
 				<li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2010">Poze</a></li>				
 				<li><a href="/2010/calea" title="Hai și tu!">Cum ajungi?</a></li>
-                    <li><a href="/2010/contact" title="Scrie-ne">Contact</a></li>
+                <li><a href="/2010/promo" title="Susține-ne!">Promovează</a></li>
+                <li><a href="/2010/contact" title="Scrie-ne">Contact</a></li>
 			</ul>
 		</div>
 		<div id="corp">
