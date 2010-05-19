@@ -16,10 +16,10 @@ Kudos [Nicu](http://nicubunu.blogspot.com/) pentru banere.
 ###Poze
 
 1. <img src="/promo/2010/png/flosscamp2010_125.png" style="border: 0; display: block;" alt="" />
-  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_125.png" alt="FLOSSCamp 2010"/></textarea>
+  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_125.png" alt="FLOSSCamp 2010"/></a></textarea>
 2. <img src="/promo/2010/png/flosscamp2010_234.png" style="border: 0; display: block;" alt="" />
-  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_234.png" alt="FLOSSCamp 2010"/></textarea>
+  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_234.png" alt="FLOSSCamp 2010"/></a></textarea>
 3. <img src="/promo/2010/png/flosscamp2010_390.png" style="border: 0; display: block;" alt="" />
-  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_390.png" alt="FLOSSCamp 2010"/></textarea>
+  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_390.png" alt="FLOSSCamp 2010"/></a></textarea>
 4. <img src="/promo/2010/png/flosscamp2010_468.png" style="border: 0; display: block;" alt="" />
-  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_468.png" alt="FLOSSCamp 2010"/></textarea>
+  <textarea style="width: 400px; height: 30px;"><a href="http://camp.softwareliber.ro"><img src="/promo/2010/png/flosscamp2010_468.png" alt="FLOSSCamp 2010"/></a></textarea>
