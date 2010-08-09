@@ -121,7 +121,7 @@
     background-color: #eee;
 }
 .image-annotate-edit-area {
-    border: 1px solid black;
+    border: 1px solid #FFF;
     cursor: move;
     display: block;
     height: 60px;
