@@ -34,7 +34,7 @@
 		    <ul>
 				<li><a href="/2010/" title="Acasă">Despre</a></li>
 				<!--li><a href="/2010/propuneri" title="Propuneri">Propuneri</a></li-->
-				<li><a href="/2010/inscriere" title="Înscriere">Înscriere</a></li>
+				<!--li><a href="/2010/inscriere" title="Înscriere">Înscriere</a></li-->
 				<!--li><a href="/2010/participa" title="Participă">Participă / Agenda</a></li-->
 				<li><a href="/2010/membri" title="Pe cine vei întâlni">Participanți</a></li>
 				<li><a href="/2010/poze/index.php" title="Poze de la FLOSSCamp 2010">Poze</a></li>				
