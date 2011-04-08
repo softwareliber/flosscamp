@@ -1,0 +1,9 @@
+Options +FollowSymLinks -Multiviews
+
+DirectoryIndex /flosscamp/markdown/markdown.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . /flosscamp/markdown/markdown.php [L]
+</IfModule>

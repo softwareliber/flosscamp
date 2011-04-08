@@ -10,7 +10,7 @@ html, body {
 
 #cap {
     height:131px;
-    background: url("/img/flosscamp.png") no-repeat left;
+    background: url("../img/flosscamp.png") no-repeat left;
 }
 
 #cap h1 {
