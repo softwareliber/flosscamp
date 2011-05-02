@@ -19,13 +19,31 @@
 	    rel="stylesheet" href="../css/style.css?v=<?php echo $year ?>"
 	    type="text/css" media="screen, projection" />	
 	<link
+	    rel="stylesheet" href="../css/jquery.fancybox.css"
+	    type="text/css" media="screen" />
+	<link
 	    rel="shortcut icon" href="http://camp.softwareliber.ro/favicon.ico" />
+
+    <?php if (is_gallery_page($file)) { ?>
+	<script type="text/javascript" src="../js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.fancybox-1.2.1.pack.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(".poze a").fancybox({
+				'hideOnContentClick': true,
+				'zoomSpeedIn': 300,
+				'zoomSpeedOut': 300,
+				'overlayShow': true 
+			});
+		});
+	</script>
+    <?php } ?>
 </head>
 <body>
 	<div id="continut">
 		<div id="cap">
 		<h1>
-		  <a href="/" alt="<?php echo $wiktagline ?>">
+		  <a href="/" alt="<?php echo $wikitagline ?>">
 		        <?php echo $wikiname ?><br /><?php echo $camplocation ?>
 		  </a>
 		</h1>
@@ -37,7 +55,15 @@
 			</ul>
 		</div>
 		<div id="corp">
-			<?php echo $html ?>
+			<?php
+			    echo $html;
+			    if (is_gallery_page($file)) {
+			        echo '<p class="poze">';
+			        show_gallery($year);
+			        echo '</p>';
+			    }
+			?>
+			
 			<p style="text-align: right; font-size: 9px; color: #999;">
 				Ultima modificare în: <?php echo date("d M, Y",$modified); ?>,
 				<?php echo date("H:i:s",$modified); ?>.
@@ -48,7 +74,7 @@
 		    <p style="float: right">
 			    Folosim <a href="http://michelf.com/projects/php-markdown/">
 			    Markdown</a> și <a href="http://git-scm.com/">Git</a>,
-			    vezi <a href="/2010/syntax">sintaxa</a>.
+			    vezi <a href="../2011/syntax">sintaxa</a>.
 		    </p>
 		    <p>
 			    Un proiect al

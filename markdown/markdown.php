@@ -1,29 +1,35 @@
 <?php
 
 require_once('markdown_filter.php');
-$extension = '.md'; // File extension for files to process as Markdown
-$template_name = 'template.php'; // Filename of templates
-$contants_name = 'constants.php';
+require_once('gallery.php');
+
+define('MARKDOWN_EXTENSION', '.md');
+// Filename for template file.
+define('TEMPLATE_NAME', 'template.php');
+define('CONSTANTS_NAME', 'constants.php');
+// Show the gallery only on page containing GALLERY_PAGE_NAME in the name.
+define('GALLERY_PAGE_NAME', 'poze');
+define('PHOTOS_FOLDER_NAME', 'foto');
+define('THUMBNAILS_FOLDER_NAME', 'thumbnails');
 
 $path = $_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI'];
-if(is_readable($path . $extension))
-{
-	$file = $path . $extension;
+
+$file = $path . MARKDOWN_EXTENSION;
+$index_path = $path . '/index' . MARKDOWN_EXTENSION;
+$not_found_path = realpath('../' . '404' . MARKDOWN_EXTENSION);
+if (is_readable($file)) {
 	$files_path = dirname($path);
-}
-else
-{
-	if(is_readable($path . '/index' . $extension))
-	{
-		$file = $path . '/index' . $extension;
+} else {
+	if(is_readable($index_path)){
+		$file = $index_path;
 		$files_path = $path;
 	}
 	else
 	{
 		header(' ', true, 404); // 404 on them
-		if(is_readable(dirname($path) . '/404' . $extension))
+		if(is_readable($not_found_path))
 		{
-			$file = dirname($path) . '/404' . $extension;
+			$file = $not_found_path;
 			$files_path = dirname($path);
 		}
 		else
@@ -35,7 +41,7 @@ else
 }
 // Get the template to include
 // A single template for all years.
-$template_file = realpath('../' . $template_name);
+$template_file = realpath('../' . TEMPLATE_NAME);
 if(!$template_file)
 {
 	die(
@@ -46,7 +52,7 @@ if(!$template_file)
 
 // Get the page constants to include
 // There is a contstants file for each each.
-$constants_file = $files_path . '/' . $contants_name;
+$constants_file = $files_path . '/' . CONSTANTS_NAME;
 $constants_file = realpath($constants_file);
 if(!$constants_file)
 {
