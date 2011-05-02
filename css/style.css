@@ -125,6 +125,10 @@ h1 a, h2 a, h3 a, h4 a {
     font-style:italic;
 }
 
+#corp h2 {
+    font-size:1.4em;
+}
+
 #corp p img, #corp p a img {
     background-color:#FFFFFF;
     border:5px solid #69AB00;

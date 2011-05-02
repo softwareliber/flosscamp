@@ -3,9 +3,9 @@ FLOSSCamp 2011 se află în stadiu de pregătiri!
 
 FlOSSCamp 2011 va avea loc între 5-7 August 2011 în zona Moieciu, Brașov.
 
-În zilele următoare vom adăuga mai multe informații. Deocamdată avem
-câteva [poze cu locul de campare](poze), așa cum arăta el la sfârșitul lui Aprilie
-2011.
+În zilele următoare vom adăuga mai multe informații.
+Deocamdată avem câteva [poze cu locul de campare](poze), așa cum arăta el la
+sfârșitul lui Aprilie 2011.
 
 Ești invitat să vezi și pozele din [2010](../2010/poze/index.php),
 [2009](../2009/poze/index.php) sau [2008](../2008/poze/index.php).
@@ -13,11 +13,11 @@ Ești invitat să vezi și pozele din [2010](../2010/poze/index.php),
 Descriere
 =========
 
-FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2010 dorim
+FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2011 dorim
 să scoatem din casă toate persoanele dornice să discute sau să schimbe idei
 și opinii despre software liber.
 
-Anul acesta FLOSSCamp își dorește nu doar să repete, ci și să mărească
+Anul acesta FLOSSCamp își dorește nu doar să repete, ci să mărească
 succesul de anii anteriori.
 
 Scopurile întâlnirii nu sunt mărețe și în principal se dorește să mai ieșim
