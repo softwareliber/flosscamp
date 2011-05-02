@@ -1,7 +1,7 @@
 FLOSSCamp 2011 se află în stadiu de pregătiri!
 ==============================================
 
-FlOSSCamp 2011 va avea loc între 5-7 August 2011 în zona Moeciu, Brașov.
+FlOSSCamp 2011 va avea loc între 5-7 August 2011 în zona Moieciu, Brașov.
 
 În zilele următoare vom adăugat mai multe informații.
 
