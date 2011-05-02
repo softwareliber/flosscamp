@@ -20,6 +20,8 @@ Firefox, Ubuntu... etc.
 
 Vezi [pozele din zonă din aprilie 2011](poze).
 
+TODO: informatii retele de telefonie mobilă
+
 
 Transport comun
 ---------------
@@ -31,9 +33,9 @@ TODO: cum se ajunge de la gara la autogară. de unde se iau bilete de autobuz.
 care sunt coordonatele autogării.
 
 Din autogara Avram Iancu, Brașov există 4 curse pe zi câtre Moieciu de Sus.
-Se merge cu autobuzul până în Moieciu de Sus la coordonatele 45°26'34.06"N și  
-25°19'47.20"E.
-De acolo va trebui să mergeți pe jos până la locul de campare.
+Se merge cu autobuzul aproximativ 36 de km până în Moieciu de Sus
+la coordonatele 45°26'34.06"N și 25°19'47.20"E.
+De acolo se merge pe jos până la locul de campare încă aproximativ 4,2 km.
 
 TODO: numele firmei de transport (eventual telefon). Orarul curselor.
 Descriere repere mers pe jos.
