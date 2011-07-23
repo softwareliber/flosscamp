@@ -75,6 +75,8 @@
 			    Folosim <a href="http://michelf.com/projects/php-markdown/">
 			    Markdown</a> și <a href="http://git-scm.com/">Git</a>,
 			    vezi <a href="../2011/syntax">sintaxa</a>.
+                <br/>
+                <iframe src="http://www.facebook.com/plugins/like.php?app_id=136114323140890&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FFLOSSCamp%2F136082179809799&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
 		    </p>
 		    <p>
 			    Un proiect al
