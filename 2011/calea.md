@@ -10,7 +10,7 @@ te rugăm să ne contactezi.
 Locul de campare
 ----------------
 
-Locul de campare se află la următarele coordonate 
+Locul de campare aproximativ, se află la următarele coordonate 
 [45°25'8.53"N - 25°22'12.54"E
 ](http://www.openstreetmap.org/?lat=45.419043&lon=25.370157&zoom=18&layers=M)
 (latitudine 45.419043, longitudine 25.370157)
@@ -19,9 +19,6 @@ Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp,
 Firefox, Ubuntu... etc.
 
 Vezi [pozele din zonă din aprilie 2011](poze).
-
-TODO: informatii retele de telefonie mobilă
-
 
 Transport comun
 ---------------
@@ -35,20 +32,21 @@ Din autogara Avram Iancu, Brașov există curse zilnice câtre Moieciu de Jos.
 Se merge cu autobuzul până în Moieciu de Jos. Din Moieciu de Jos, se poate merge
 pe jos sau cu autostopul (1h/1h30m) până în Moieciu de Sus.
 
-Coordonatele ar fi 45°26'34.06"N și 25°19'47.20"E.
-De acolo se merge pe jos până la locul de campare încă aproximativ 4,2 km.
+Pentru o orientare mai exactă, vezi [harta cu amplasarea](/2011/foto/camp2011.png).
 
-Orarul curselor ar fi:
+Orarul curselor ar fi (8 RON cursa):
 <ol>
     <li>
         <p><strong>Luni &mdash; Vineri</strong></p>
-        <p>7:00 &mdash; 19:00 (Interval plecări: 1h)</p>
+        <p>7:00 &mdash; 19:00 (5 curse)</p>
     </li>
     <li>
         <p><strong>Sâmbătă &mdash; Duminică</strong></p>
         <p>7:00, 15:00, 19:00</p>
     </li>
 </ol>
+
+Nr. telefon autogară: 0268.426.332
 
 Pentru tren sau autobuz consultă
 <a href="http://www.infofer.ro">mersul trenurilor</a> sau 
