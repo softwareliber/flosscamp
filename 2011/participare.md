@@ -15,7 +15,7 @@ bine evenimentul.
 Desfășurarea evenimentului
 --------------------------
 
-FLOSSCamp va începe cu un warm-up fire în seara 5 august în cinstea celor
+FLOSSCamp va începe cu un warm-up fire în seara de 5 august în cinstea celor
 care s-au trezit devreme, au sărit peste cursuri sau s-au învoit de la servici
 pentru a prinde cele mai bune locuri de cort din poiană.
 
