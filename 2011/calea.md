@@ -36,12 +36,14 @@ sau autobuze câtre Bran.
 Din gară luația linia de autobuze (sau troleibuze) numărul 23 până la
 Autogara numărul 2 din Brașov (sunt aproximativ 3 stații între).
 
-Stația de autobuz pentru linia 23
+Stația de autobuz pentru linia 23 nu este exact în față ieșirii din gară, 
+ci undeva mai în latera. Întrebați de linia 23 și veți afla unde este stația.
+
+Mai jos găsiți o hartă cu drumul în interiorul Brașovului.
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=214950241554054963993.0004a91dd36b975930439&amp;doflg=ptk&amp;ie=UTF8&amp;t=h&amp;ll=45.664566,25.594969&amp;spn=0.020994,0.036478&amp;z=14&amp;output=embed"></iframe>
 
-Din autogara Brașov există curse zilnice câtre Bran/Șimon..
-
+Din autogara Brașov există curse zilnice câtre Bran/Șimon.
 
 Număr telefon autogară: 0268.426.332
 
