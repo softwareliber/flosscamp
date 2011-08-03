@@ -1,10 +1,23 @@
 Cum ajung la FLOSSCamp?!
 =========================
 
-Datele de pe această pagină au caracter informativ.
-Înainte de a porni la drum te rugăm să verifici valabilitatea datelor.
-În cazul în care ai corectări sau vrei să adaugi informații,
-te rugăm să ne contactezi.
+__Datele de pe această pagină au caracter informativ.__
+__Înainte de a porni la drum te rugăm să verifici valabilitatea datelor.__
+
+
+În cazul în care veniți cu transport în comun, ultimii 10 kilometrii nu sunt
+acoperți de transportul în comun. Vom organiza curse de transport și
+cineva vă va aștepta în Bran. În acest caz vă rugăm să ne contactați pentru
+a anuța ora la care ajungeți.
+
+
+Contact de „doamne ajută”
+-------------------------
+
+În cazuri de maximă urgență, și dacă nu vă descurcați nicicum să ajungeți la
+locul de campare, puteți folosi următoarele contacte:
+
+ * Adi Roiban - 0745314052
 
 
 Locul de campare
