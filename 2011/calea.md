@@ -32,7 +32,7 @@ Din autogara Brașov există curse zilnice câtre Bran/Șimon..
 Pentru o orientare mai exactă, vezi
 [harta cu cu amplasarea](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=211321353688224832236.0004a9959d6bfc66d6c25).
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=211321353688224832236.0004a9959d6bfc66d6c25"></iframe>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=211321353688224832236.0004a9959d6bfc66d6c25&amp;t=h&amp;ll=45.493593,25.361252&amp;spn=0.05776,0.109863&amp;z=13&amp;output=embed"></iframe><br /><small>Vezi <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=211321353688224832236.0004a9959d6bfc66d6c25&amp;t=h&amp;ll=45.493593,25.361252&amp;spn=0.05776,0.109863&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">FlossCamp 2011</a> în o hartă mai mare</small>
 
 Număr telefon autogară: 0268.426.332
 
