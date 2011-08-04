@@ -18,6 +18,7 @@ Contact de „doamne ajută”
 locul de campare, puteți folosi următoarele contacte:
 
  * Adi Roiban - 0745314052
+ * Stas Sușcov - 0765655963
 
 
 Locul de campare
@@ -65,34 +66,43 @@ Autogara numărul 2 (numită și Bartolomeu), sunt aproximativ 3 stații între
 și coborâți la stația Stadionul Tineretului.
 
 Stația de autobuz pentru linia 23 _nu_ este exact în față ieșirii din gară,
-ci undeva mai în latera. Întrebați de linia 23 și veți afla unde este stația.
+e peste drum pe dreapta, la intersecția cu drumul principal. Întrebați de linia 23 și veți afla unde este stația.
 
 Mai jos găsiți o hartă cu drumul în interiorul Brașovului.
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=214950241554054963993.0004a91dd36b975930439&amp;doflg=ptk&amp;ie=UTF8&amp;t=h&amp;ll=45.664566,25.594969&amp;spn=0.020994,0.036478&amp;z=14&amp;output=embed"></iframe>
 
 Din autogara Brașov există curse zilnice câtre Bran/Moieciu.
-Stația de coborăre este Șimon.
+Coborâți la intersecția spre Șimon. Cereți șoferului să vă lase acolo, pentru că nu e „cu stații”.
 
 Pentru orele de plecare, consultați
 <a href="http://www.cpnt.ro/index2.php?option=com_content&do_pdf=1&id=175">
 orarul curselor Brașov-Bran-Moieciu</a>
 
-În cazul în care sunteți nesiguri rugati șoferul să vă indice stația de
-coborâre pentru localitatea Șimon.
-
 Număr telefon autogară: 0268.426.332
-
-
 
 
 Drumul din Șimon până la locul de campare
 -----------------------------------------
 
-Urmați drumul asfaltat prin Șimon pana la biserica de pe dreapta.
-Urmați de acolo drumul neasfaltat care porneste spre stânga, cu
-indicator pentru schitul Sf. Andrei (sau schitul Bran). Sus pe deal,
-urmati bifurcația spre stânga, treceti de schit, de pensiune Conacul
-Domnesc și de ferma care se vede în vale.
+Urmați traseul următor:
+* mergeți pe drumul principal (spre Șimon) până întâlniți o biserică cu
+cimitirul mare (e pe stânga)
+* de acolo, pe lângă biserică merge un drum care urcă pe deal, pe lângă
+apă (nu o luați pe lângă gardul cu curent electric!!! yes I know, weird
+stuff)
+* de acolo, până în deal, aveți de făcut cam 20 minute, după care în
+vârf, ar trebui să vedeți un stâlp mare de înaltă tensiune și o șură
+* de la șura/stâlpul ăla/aia, cu spatele, mergeți tot înainte, cam 10
+minute
+* veți întâlni o ogradă, în mijlocul ei trece drumul, și drumul are
+țăruși mici bătuți prin mijloc, să nu vă împiedicați!!!
+* fix după ce se termină ograda, în stânga (cum vă uitați spre munți),
+mai în vale un pic, ar trebui să vedeți o altă șură, cu o ușă mare
+deschisă spre voi
+* mergeți spre ea, treceți pe lângă, în spatele șurii începe o altă
+ogradă, în josul văii, ne vedeți pe noi, acolo campăm!
+
 Vor fi puse indicatoare câtre locul de campare și va trebuie să vedeți
-banere cu nume de software liber.
+banere cu nume de software liber, dar nu vă lăsați pe seama indicatoarelor,
+citiți și rețineți traseul!
