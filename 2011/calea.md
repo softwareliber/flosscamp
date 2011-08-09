@@ -17,8 +17,8 @@ Contact de „doamne ajută”
 În cazuri de maximă urgență, și dacă nu vă descurcați nicicum să ajungeți la
 locul de campare, puteți folosi următoarele contacte:
 
- * Adi Roiban - 0745314052
  * Stas Sușcov - 0765655963
+ * Adi Roiban - 0745314052 (de sâmbătă dimineață)
 
 
 Locul de campare
