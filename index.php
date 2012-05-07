@@ -1,4 +1,4 @@
 <?php
 	/* Short and sweet =] */
-	header("Location: /2011/");
+	header("Location: /2012/");
 ?>
