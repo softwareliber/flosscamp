@@ -1,14 +1,15 @@
 Ne pregăgitm de FLOSSCamp 2012! 
 ===============================
 
-Încă nu știm exact când și unde va avea loc FLOSSCamp anul acesta.
+Încă nu știm exact când și unde va avea loc FLOSS Camp anul acesta.
 
-Probabil că locul va fi pe undeva pe lângă Brașov iar Doru Ilasi ne va oferi
-mai multe detalii.
-
-Vom publica un sondaj pentru a stabili data în care va avea loc evenimentul. 
-
+Doru Ilași a propus deja o locație, pe lângă Brașov (în apropiere de Padina Ursului - Fundățica). 
 Puteți vedea poze din mai de la [locul propus pentru desfășurare](poze).
+Orice alta propunere e bine venita și va fi luată în considerare și discuție.
+
+Am publicat sondajul pentru a stabili data în care va avea loc evenimentul și pentru a desemna data, locația și dornicii de participare.
+
+[Votează data la care va avea loc FLOSS Camp 2012, exprimăți acordul pentru locație sau propune alta.](http://docs.google.com/spreadsheet/embeddedform?formkey=dElxYjZValhaVTM0TDAzaFVqVk5nUkE6MQ)
 
 Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
 [2010](../2010/poze/index.php), [2009](../2009/poze/index.php) sau
@@ -18,7 +19,7 @@ Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
 Descriere
 ---------
 
-FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2011 dorim
+FLOSS înseamna Free/Libre/Open Source Software și prin FLOSS Camp 2012 dorim
 să scoatem din casă toate persoanele dornice să discute sau să schimbe idei
 și opinii despre software liber.
 
