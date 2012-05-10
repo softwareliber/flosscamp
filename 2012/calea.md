@@ -20,15 +20,13 @@ locul de campare, puteți folosi următoarele contacte:
 Locul de campare
 ----------------
 
-Întâi de toate, vă prezentăm harta de mai jos ar trebui să răspundă
-tutoror întrebările legate de amplasare.
+Întâi de toate, vă prezentăm harta de mai jos ar trebui să răspundă tutoror întrebărilor legate de amplasare.
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=211321353688224832236.0004a9959d6bfc66d6c25&amp;t=h&amp;ll=45.493593,25.361252&amp;spn=0.05776,0.109863&amp;z=13&amp;output=embed"></iframe><br /><small>Vezi <a href="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=211321353688224832236.0004a9959d6bfc66d6c25&amp;t=h&amp;ll=45.493593,25.361252&amp;spn=0.05776,0.109863&amp;z=13&amp;source=embed" style="color:#0000FF;text-align:left">FlossCamp 2011</a> în o hartă mai mare</small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;ie=UTF8&amp;t=h&amp;ll=45.541447,25.438006&amp;spn=0.226802,0.332636&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;ie=UTF8&amp;t=h&amp;ll=45.541447,25.438006&amp;spn=0.226802,0.332636&amp;source=embed" style="color:#0000FF;text-align:left">Floss Camp 2012 - Padina Ursului - Fundata</a> in a larger map</small>
 
-Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp,
-Firefox, Ubuntu... etc.
+Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp, Firefox, Ubuntu... etc.
 
-Vezi [pozele din zonă din mai 2012](poze).
+Vezi [locul propus pentru desfășurare](poze).
 
 
 Transport privat (mașină, elicopter, teleportor, etc)
