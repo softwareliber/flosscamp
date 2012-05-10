@@ -5,8 +5,8 @@ __Datele de pe această pagină au caracter informativ.__
 __Înainte de a porni la drum te rugăm să verifici valabilitatea datelor.__
 
 
-Încă nu a fost stabliti locul de desfășurare e evenimentului
-
+Încă nu a fost stabliti locul de desfășurare e evenimentului : harta de mai jos reflectă locația propusă în acest moment.
+[Voteaza data la care va avea loc FLOSS Camp. Daca stii o locatie potrivita, fa o propunere.](http://docs.google.com/spreadsheet/embeddedform?formkey=dElxYjZValhaVTM0TDAzaFVqVk5nUkE6MQ)
 
 Contact de „doamne ajută”
 -------------------------
@@ -62,14 +62,16 @@ Coborâți la intersecția spre XXXX. Cereți șoferului să vă lase acolo, pen
 că nu e „cu stații”.
 
 Pentru orele de plecare, consultați
-<a href="http://www.cpnt.ro/index2.php?option=com_content&do_pdf=1&id=175">
-orarul curselor Brașov-Bran-Moieciu</a>
+<a href="http://www.autogari.ro/Transport/Brasov-Fundata/141-811.aspx">
+orarul curselor Brașov-Fundata</a>
 
-Număr telefon autogară: 0268.426.332
+Număr telefon autogară: vezi in orarul de plecare la transportator.
 
 
 Drumul din XXXXX până la locul de campare
 -----------------------------------------
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msid=208363578752710359320.0004bf356ed3230160414&msa=0;output=embed"></iframe>
+
 
 Urmați traseul următor:
 * merge in X
@@ -78,3 +80,4 @@ Urmați traseul următor:
 Vor fi puse indicatoare câtre locul de campare și va trebuie să vedeți
 banere cu nume de software liber, dar nu vă lăsați pe seama indicatoarelor,
 citiți și rețineți traseul!
+
