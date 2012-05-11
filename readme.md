@@ -18,3 +18,16 @@ Pentru a genera thumbnailurile, puneți imaginile principale în dosarul „foto
 și asigurați-vă că serverul HTTP are drept de scriere în dosar. Puteți rula
 PHP local și apoi să puneți pe server fișierele gata generate fără a mai
 fi nevoie de drepturi de scriere pe server.
+
+### Setări pentru nginx
+
+```nginx
+location / {
+  if (!-f $request_filename){
+    set $rule_0 1$rule_0;
+  }
+  if ($rule_0 = "1"){
+    rewrite /. /markdown/markdown.php last;
+  }
+}
+```
