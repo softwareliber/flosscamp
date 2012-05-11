@@ -22,7 +22,7 @@ Locul de campare
 
 Întâi de toate, vă prezentăm harta de mai jos ar trebui să răspundă tutoror întrebărilor legate de amplasare.
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;ie=UTF8&amp;t=h&amp;ll=45.541447,25.438006&amp;spn=0.226802,0.332636&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;ie=UTF8&amp;t=h&amp;ll=45.541447,25.438006&amp;spn=0.226802,0.332636&amp;source=embed" style="color:#0000FF;text-align:left">Floss Camp 2012 - Padina Ursului - Fundata</a> in a larger map</small>
+<iframe width="850" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;t=m&amp;ll=45.455796,25.322113&amp;spn=0.115597,0.219727&amp;z=12&amp;output=embed"></iframe>
 
 Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp, Firefox, Ubuntu... etc.
 
@@ -52,8 +52,7 @@ Transport în comun din Brașov până în LOCUL DE CAMPARE
 Cea mai apropiată gară este gara din Brașov.
 
 Mai jos găsiți o hartă cu drumul în interiorul Brașovului.
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=214950241554054963993.0004a91dd36b975930439&amp;doflg=ptk&amp;ie=UTF8&amp;t=h&amp;ll=45.664566,25.594969&amp;spn=0.020994,0.036478&amp;z=14&amp;output=embed"></iframe>
+<iframe width="900" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=214950241554054963993.0004a91dd36b975930439&amp;doflg=ptk&amp;ie=UTF8&amp;t=h&amp;ll=45.664566,25.594969&amp;spn=0.028792,0.054932&amp;z=15&amp;output=embed"></iframe>
 
 Din autogara Brașov există curse zilnice câtre XXXXX.
 Coborâți la intersecția spre XXXX. Cereți șoferului să vă lase acolo, pentru
@@ -68,8 +67,8 @@ Număr telefon autogară: vezi in orarul de plecare la transportator.
 
 Drumul din XXXXX până la locul de campare
 -----------------------------------------
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msid=208363578752710359320.0004bf356ed3230160414&msa=0;output=embed"></iframe>
 
+TODO
 
 Urmați traseul următor:
 * merge in X
