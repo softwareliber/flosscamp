@@ -9,8 +9,6 @@ Orice alta propunere e bine venita și va fi luată în considerare și discuți
 
 Am publicat sondajul pentru a stabili data în care va avea loc evenimentul și pentru a desemna data, locația și dornicii de participare.
 
-[Votează data la care va avea loc FLOSS Camp 2012, exprimăți acordul pentru locație sau propune alta.](http://docs.google.com/spreadsheet/embeddedform?formkey=dElxYjZValhaVTM0TDAzaFVqVk5nUkE6MQ)
-
 Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
 [2010](../2010/poze/index.php), [2009](../2009/poze/index.php) sau
 [2008](../2008/poze/index.php).

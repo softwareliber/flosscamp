@@ -6,7 +6,6 @@ __Înainte de a porni la drum te rugăm să verifici valabilitatea datelor.__
 
 
 Încă nu a fost stabliti locul de desfășurare e evenimentului : harta de mai jos reflectă locația propusă în acest moment.
-[Voteaza data la care va avea loc FLOSS Camp. Daca stii o locatie potrivita, fa o propunere.](http://docs.google.com/spreadsheet/embeddedform?formkey=dElxYjZValhaVTM0TDAzaFVqVk5nUkE6MQ)
 
 Contact de „doamne ajută”
 -------------------------
