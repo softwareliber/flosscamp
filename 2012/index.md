@@ -1,13 +1,10 @@
-Ne pregăgitm de FLOSSCamp 2012! 
-===============================
+FLOSSCamp 2012! 
+===============
 
-Încă nu știm exact când și unde va avea loc FLOSS Camp anul acesta.
+FLOSS Camp va avea loc în perioada 27 iul - 29 iul 2012.
 
-Doru Ilași a propus deja o locație, pe lângă Brașov (în apropiere de Padina Ursului - Fundățica). 
-Puteți vedea poze din mai de la [locul propus pentru desfășurare](poze).
-Orice alta propunere e bine venita și va fi luată în considerare și discuție.
-
-Am publicat sondajul pentru a stabili data în care va avea loc evenimentul și pentru a desemna data, locația și dornicii de participare.
+Locația : în apropiere de Padina Ursului - Fundățica. 
+Puteți vedea poze din mai de la [locul de desfășurare](poze).
 
 Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
 [2010](../2010/poze/index.php), [2009](../2009/poze/index.php) sau
