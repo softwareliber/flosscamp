@@ -1,7 +1,7 @@
 FLOSSCamp 2012! 
 ===============
 
-FLOSS Camp va avea loc în perioada 27 iul - 29 iul 2012.
+FLOSS Camp a avut loc în perioada 27 iul - 29 iul 2012.
 
 <a href="http://plus.google.com/u/0/events/c0iculb3r86g27vcpsn1avecjrs/116195563418553437509">Floss Camp 2012 pe Google+</a>
 
