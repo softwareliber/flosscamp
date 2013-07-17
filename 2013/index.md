@@ -3,8 +3,7 @@ FLOSSCamp 2013!
 
 FLOSSCamp va avea loc în perioada 26 iul - 28 iulie 2013.
 
-Locația : în apropiere de Padina Ursului - Fundățica.
-Puteți vedea poze din mai de la [locul de desfășurare](poze).
+Locația nu a fost încă stabilită. Votați în cadrul [sondajului](./sondaj).
 
 Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
 [2010](../2010/poze/index.php), [2009](../2009/poze/index.php) sau
