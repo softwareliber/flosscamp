@@ -1,13 +1,13 @@
-FLOSSCamp 2013!
-===============
+FLOSSCamp 2013
+==============
 
-FLOSSCamp va avea loc în perioada 26 iul - 28 iulie 2013.
+FLOSSCamp va avea loc în perioada 26 iulie - 28 iulie 2013.
 
-Locația nu a fost încă stabilită. Votați în cadrul [sondajului](./sondaj).
+Locația : în apropiere de Padina Ursului - Fundățica.
 
-Sunteți invitat să vedeți și pozele din [2011](../2011/poze/index.php),
-[2010](../2010/poze/index.php), [2009](../2009/poze/index.php) sau
-[2008](../2008/poze/index.php).
+Sunteți invitat să vedeți și pozele din [2012](../2012/poze/index.php),
+[2011](../2011/poze/index.php), [2010](../2010/poze/index.php),
+[2009](../2009/poze/index.php) sau [2008](../2008/poze/index.php).
 
 
 Descriere
@@ -15,17 +15,17 @@ Descriere
 
 FLOSS înseamna Free/Libre/Open Source Software și prin FLOSSCamp 2013 dorim
 să scoatem din casă toate persoanele dornice să discute sau să schimbe idei
-și opinii despre software liber.
+și opinii despre programele libere.
 
 Anul acesta FLOSSCamp își dorește nu doar să repete, ci să mărească
 succesul de anii anteriori.
 
 Scopurile întâlnirii nu sunt mărețe și în principal se dorește să mai ieșim
 din fața calculatoarelor, să mai socializăm offline și să punem niște voci și
-fețe în spatele caracterelor online.
+fețe în spatele personajelor din mediul online.
 
 Scopul principal al acestui eveniment este de a întări legăturile dintre
-comunitățile și utilizatorii de software liber din România.
+comunitățile și utilizatorii de programe libere din România.
 
 Participarea este liberă. Nu există taxă de participare sau de campare!
 
