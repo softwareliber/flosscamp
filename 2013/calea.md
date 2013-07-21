@@ -27,7 +27,7 @@ Locul de campare
 ----------------
 Întâi de toate, vă prezentăm harta de mai jos care ar trebui să răspundă tuturor întrebărilor legate de amplasare.
 
-<iframe width="850" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://mapsengine.google.com/map/edit?mid=zEWdND497RkU.kNP527nuhRBo"></iframe>
+<a href="http://mapsengine.google.com/map/edit?mid=zEWdND497RkU.kNP527nuhRBo">Harta FLOS Camp 2013</a>
 
 Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp, Firefox, Ubuntu... etc.
 Nu e altă cale de a ajunge la locul de campare care să nu treacă pe lângă pensiune : concentrați-vă asupra acesteia.
