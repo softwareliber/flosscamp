@@ -27,7 +27,7 @@ Locul de campare
 ----------------
 Întâi de toate, vă prezentăm harta de mai jos care ar trebui să răspundă tuturor întrebărilor legate de amplasare.
 
-<iframe width="850" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=208363578752710359320.0004bf356ed3230160414&amp;t=m&amp;ll=45.455796,25.322113&amp;spn=0.115597,0.219727&amp;z=12&amp;output=embed"></iframe>
+<iframe width="850" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://mapsengine.google.com/map/edit?mid=zEWdND497RkU.kNP527nuhRBo"></iframe>
 
 Prin poiană ar trebui să vezi câteva corturi și bannere cu FLOSSCamp, Firefox, Ubuntu... etc.
 Nu e altă cale de a ajunge la locul de campare care să nu treacă pe lângă pensiune : concentrați-vă asupra acesteia.
