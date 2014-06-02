@@ -12,7 +12,7 @@ Pentru a face un nou sub-site.
  * faceți un fișiere constants.php cu informații despre site și cu detalii
    despre meniu.
  * pentru galeria foto, faceți un fișier **poze.md** cu textul introductiv
-   pentru galieri și un dosar **foto** în care copiați pozele.
+   pentru galerie și un dosar **foto** în care copiați pozele.
 
 Pentru a genera thumbnailurile, puneți imaginile principale în dosarul „foto”
 și asigurați-vă că serverul HTTP are drept de scriere în dosar. Puteți rula
