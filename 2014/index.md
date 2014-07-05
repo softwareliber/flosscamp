@@ -5,8 +5,8 @@ FLOSSCamp va avea loc în perioada 24 iulie - 27 iulie 2014.
 
 Locația : Șleaul Mândrului - Fundățica, Brașov, Romania.
 
-Sunteți invitat să vedeți și pozele din [2013](../2013/foto/index.php),
-[2012](../2012/foto/index.php),[2011](../2011/foto/index.php), 
+Sunteți invitat să vedeți și pozele din [2013](../2013/poze/index.php),
+[2012](../2012/poze/index.php),[2011](../2011/poze/index.php), 
 [2010](../2010/poze/index.php), [2009](../2009/poze/index.php) 
 sau [2008](../2008/poze/index.php).
 
