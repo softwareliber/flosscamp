@@ -28,8 +28,17 @@ fețe în spatele personajelor din mediul online.
 Scopul principal al acestui eveniment este de a întări legăturile dintre
 comunitățile și utilizatorii de programe libere din România.
 
+Costuri participare
+---------------------
+
 Participarea este liberă. Nu există taxă de participare sau de campare!
 
+Costuri cazare / masă
+---------------------
+
+Pentru informarea celor care doresc să doarmă sau servească masa la pensiune ( /persoană - RON) :
+- 50 - cazare / 30 pranz / 30 cina (după apetit)
+Rugăm ca doritorii de cazare să urmeze neapărat formularul de înscriere pentru a putea gestiona optim locurile.
 
 Program
 -------
