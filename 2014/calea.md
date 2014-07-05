@@ -26,13 +26,13 @@ Până la locație e acoperire pe toate rețelele de telefonie mobilă.
 Locul de campare
 ----------------
 Întâi de toate, vă prezentăm harta de mai jos care ar trebui să răspundă tuturor întrebărilor legate de amplasare.
+Locul de desfășurare este acleași ca cel de anul trecut. 
 
-<a href="http://mapsengine.google.com/map/edit?mid=zEWdND497RkU.kNP527nuhRBo">Harta FLOS Camp 2013</a>
+<a href="http://mapsengine.google.com/map/edit?mid=zEWdND497RkU.kNP527nuhRBo">Harta FLOS Camp 2014</a>
 
-Până ajungeți la pensiune ve-ți vedea deja pe partea dreptă bannere FLOSSCamp, Firefox, Ubuntu... etc.
-Nu e altă cale de a ajunge la pensiune care să nu treacă pe lângă locul de campare: concentrați-vă asupra acesteia.
+Până ajungeți la pensiune ve-ți vedea deja pe partea dreaptă indicatoare FLOSSCamp. Puteți întreba localnicii de Șleaul Mândrului.
 
-Vezi [locul de desfășurare](poze).
+Vezi [cum a fost](poze).
 
 
 Transport privat (mașină, elicopter, teleportor, etc)
