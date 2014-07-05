@@ -7,7 +7,7 @@ $menu = '<li><a href="../2012/" title="Acasă">Despre eveniment</a></li>' .
         '<li><a href="../2012/calea" title="Hai și tu">Cum ajungi</a></li>' .
         '<!--li><a href="../2012/membri" title="Pe cine vei întâlni">Participanți</a></li-->' .
         '<!--li><a href="../2012/sondaj" title="Unde ne întâlnim?">Sondaj</a></li-->' .
-        '<li><a href="../2012/poze" title="Poze">Poze</a></li>' .
+        '<li><a href="../2012/foto" title="Poze">Poze</a></li>' .
         '<li><a href="../2012/contact" title="Scrie-ne">Contact</a></li>';
 ?>
 
